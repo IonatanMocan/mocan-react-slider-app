@@ -1,5 +1,3 @@
-# react-projects-7-slider
+## Live version
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+[mocan-react-reviews-app.netlify.app](https://mocan-react-reviews-app.netlify.app/)
