@@ -1,4 +1,4 @@
 ## Live version
 
-[mocan-react-testimonial-app.netlify.app](https://mocan-react-testimonial-app.netlify.app/)
+[mocan-react-reviews-app.netlify.app](https://mocan-react-reviews-app.netlify.app/)
 
